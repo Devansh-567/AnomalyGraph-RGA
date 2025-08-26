@@ -1,4 +1,3 @@
-cat > README.md << 'EOL'
 # 🌐 AnomalyGraph-RGA  
 **Real-Time Self-Adaptive Graph Anomaly Detection with Recurrent Memory**
 
